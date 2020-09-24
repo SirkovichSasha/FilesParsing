@@ -11,5 +11,6 @@ public class Main {
 
         FilesParser.listToJson(list);
         FilesParser.listToJson(list2);
+        FilesParser.jsonToEmployee("C:\\Users\\Owner\\Desktop\\Netology\\Java-Core\\FilesParsing\\src\\main\\resources\\new_data.json");
     }
 }
